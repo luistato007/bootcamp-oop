@@ -1,2 +1,4 @@
-Este es un nuevo archivo por completo
+Este es un nuevo archivo total
+
 una segunda linea
+esta es una nueva linea
